@@ -1,8 +1,0 @@
-abcabc
-cbacba
-defdef
-fedfed
-ghighi
-ihgihg
-------
-------
